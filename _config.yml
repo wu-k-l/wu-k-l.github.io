@@ -10,12 +10,12 @@ locale                   : "Beijing-China"
 title                    : "Wu Kailang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Wu Kailang"
-description              : &description "personal description"
+description              : &description "A research assistant in energy internet research institute of Tsinghua university "
 url                      : https://wu-k-l.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wu-k-l/wu-k-l.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+# teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+# breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -85,10 +85,10 @@ author:
   bio              : "1999-03-08"
   location         : "Beijing"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "wukailang@mail.tsinghua.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
